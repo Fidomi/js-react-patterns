@@ -1,0 +1,14 @@
+{
+  "name": "js-react-patterns",
+  "version": "1.0.0",
+  "description": "Trying to apply examples of patterns previewed in the course A tour of Javascript and React Patterns from [Frontendmasters] (https://javascriptpatterns.vercel.app/patterns)",
+  "type":"module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fidomi/js-react-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Fidomi/js-react-patterns#readme"
+}
